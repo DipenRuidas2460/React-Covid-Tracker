@@ -104,3 +104,16 @@
 // let a = "Dipen"
 // let b = [...a]
 // console.log(b);
+
+
+// function fizzBuzz() {
+//     let a = 315
+//     let b = 840
+//     while (b > 0) {
+//         a %=b 
+//         [a,b] = [b,a]
+//     }
+    
+// }
+
+// fizzBuzz()
