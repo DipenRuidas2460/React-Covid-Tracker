@@ -1,6 +1,0 @@
-mongodb password = jVP8pyAv3s3NzEM3
-mongodb connect link = mongodb+srv://Dipen1234:jVP8pyAv3s3NzEM3@cluster0.dkmbl.mongodb.net/Project1-ProjectBlogs
-
-git hub password(token):- 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
-
-github link :-https://github.com/D2460/radon.git
